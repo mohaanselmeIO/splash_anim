@@ -6,7 +6,7 @@ class FadeAnimation extends StatelessWidget {
   final Widget child;
 
   FadeAnimation(this.delay, this.child);
-
+//foolish
   @override
   Widget build(BuildContext context) {
     final tween = MultiTrackTween([
